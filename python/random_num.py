@@ -9,6 +9,6 @@ while guess != random_number:
     if guess > random_number:
         print('Too high bruh!')
     elif guess < random_number:
-        print('Too low bruv')
+        print('Too low')
     else:
         print('You got it!')

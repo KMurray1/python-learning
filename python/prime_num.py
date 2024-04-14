@@ -10,6 +10,6 @@ def is_prime(number):
         return True
             
 if is_prime(input_num):
-    print('Is Prime bruv')
+    print('Is Prime')
 else:
-    print('Not a prime bossman')
+    print('Not a prime boss!')
